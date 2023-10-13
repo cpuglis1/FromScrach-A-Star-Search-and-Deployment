@@ -13,7 +13,7 @@ We can define a problem as a graph by framing it with the following characterist
   4) Cost Model - describes actions cost.
 
 ## A* Search
-A* Search is an optimal and complete approach that expands fewest possible nodes to find the goal. It combines Uniform Cost Search (UCS) and Greedy Search and is defined as f(n) = g(n) + h(n), where g(n) is sum of actual prior costs (UCS) and h(n) is estimated cost to goal (Greedy Heuristic). f(n) is used as the key in the priority queue.
+A* Search is an optimal and complete approach that expands the fewest possible nodes to find the goal. It combines Uniform Cost Search (UCS) and Greedy Search and is defined as f(n) = g(n) + h(n), where g(n) is sum of actual prior costs (UCS) and h(n) is estimated cost to goal (Greedy Heuristic). f(n) is used as the key in the priority queue.
 
 ## From Scratch
 This A* search was coded from scratch using nothing more than the copy, numpy, random, and streamlit packages! 
