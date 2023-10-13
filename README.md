@@ -3,7 +3,7 @@
 Try the tool [here](https://gjecmasqfyerbwu3zkufjq.streamlit.app/)! 
 
 ## Background
-Simply, most of AI can be understood as search. We create an agent to solve problems it did not know it would face. One approach that is sometimes suitable is State Space Search (SSS). In SSS we are turning a general problem into graph, and then finding a path through that graph. This begs the question, how to turn problem into graph?
+Simply, most of AI can be understood as search. We create an agent to solve problems it did not know it would face. One approach that is sometimes suitable is State Space Search (SSS). In SSS we are turning a general problem into graph, and then finding a path through that graph. This begs the question, how do we to turn a problem into graph?
 
 ## 4 Key Elements of Search
 We can define a problem as a graph by framing it with the following characteristics.
