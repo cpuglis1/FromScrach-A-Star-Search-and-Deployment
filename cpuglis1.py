@@ -421,10 +421,8 @@ moves = [(0,-1), (1,0), (0,1), (-1,0)]
 heuristic = euclidean_heuristic
 
 # Streamlit Title
-st.title("Module 4 Assignment - A* Search Deployment")
-st.write("Author: Chris Puglisi")
-
-st.write("JHU EN.605.645 Artificial Intelligence")
+st.title("A* Search Deployment")
+st.write("Chris Puglisi")
 
 # Overview with text
 st.header("Overview")
